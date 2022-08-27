@@ -9,7 +9,7 @@ export class AppComponent {
   nombre = 'Rodriguez Pablo';
   edad = 40;
   email = 'rpablo@gmail.com';
-  sueldos = [1700, 1600, 1900];
+  sueldos = [1700, 195000, 1900];
   activo = true;
 
   esActivo() {
